@@ -1,0 +1,25 @@
+{
+  "name": "inline-everything",
+  "version": "0.0.1",
+  "description": "Webpack plugin to inline everything into the index.html.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakekasan/inline-everything.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Jake Kasan",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/jakekasan/inline-everything/issues"
+  },
+  "homepage": "https://github.com/jakekasan/inline-everything#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
