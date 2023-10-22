@@ -21,5 +21,8 @@
   "homepage": "https://github.com/jakekasan/inline-everything#readme",
   "devDependencies": {
     "typescript": "^5.2.2"
+  },
+  "peerDependencies": {
+    "webpack": "^5.89.0"
   }
 }
